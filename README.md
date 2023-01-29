@@ -53,13 +53,18 @@ order of Matrix.
 4.  ### Matrix Operations 
 
     As we Know that there are various Operation of Matrix in C. We have Performed that Operation with a Cursor Blinking Input. We have Performed Some of its Operation on Matrix which are given Below:
-➢ Addition
-➢ Subtraction
-➢ Multiplication
-➢ Scalar Multiplication
-➢ Transpose
-➢ Determinant
-➢ Singular and Non-Singular Matrix
+
+ <p>
+
+        0.  Addition.
+        1.  Subtraction.
+        2.  Multiplication.
+        3.  Scalar Multiplication.
+        4.  Transpose.
+        5.  Determinant.
+        6.  Singular and Non-Singular Matrix.
+
+ </p>
 
 5.  ### Features
 
